@@ -46,8 +46,8 @@ This tool is strictly for **legal use**, such as identifying and reporting sensi
    ```bash
    pip install requests
 
-```git clone https://github.com/yourusername/assassin-tool.git
-```cd assassin-tool
-```python assassin.py
+  ```git clone https://github.com/yourusername/assassin-tool.git
+  ```cd assassin-tool
+  ```python assassin.py
 
 
